@@ -1,1 +1,0 @@
-(e=>{e("#flexslider-1").flexslider({animation:"slide",slideshowSpeed:5e3,animationSpeed:1e3}),e("#flexslider-2").flexslider({animation:"slide",slideshowSpeed:7e3,animationSpeed:1e3})})(jQuery,document);

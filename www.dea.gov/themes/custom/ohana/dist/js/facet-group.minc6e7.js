@@ -1,1 +1,0 @@
-(e=>{e.addEventListener("DOMContentLoaded",()=>{e.querySelector(".facet-group")&&e.querySelectorAll(".facet-group__heading").forEach(e=>{e.addEventListener("click",()=>{e.classList.toggle("is-active"),e.parentNode.children[1].classList.toggle("show")})})})})(document);

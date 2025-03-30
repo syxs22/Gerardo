@@ -1,1 +1,0 @@
-jQuery(".share__article").on("click",function(){let e=window.location.href;navigator.clipboard.writeText(e).then(()=>{alert("Link ("+e+") Is Copied To The Clipboard")})});
